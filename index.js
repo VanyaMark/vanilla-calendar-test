@@ -2,12 +2,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const options = {
         settings: {
             range: {
-                min: '2022-07-01',
-                max: '2022-09-30',
-                disabled: ['2022-08-10:2022-08-13', '2022-08-22'],
+                min: '2024-07-01',
+                max: '2024-09-30',
+                disabled: ['2024-08-10:2024-08-15', '2024-08-21:2024-08-27'],
             },
             selected: {
-                year: 2022,
+                year: 2024,
                 month: 7,
             },
         },
